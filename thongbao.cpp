@@ -1,9 +1,3 @@
-#include<iostream>
-int main()
-{
-	cout << "hello cac ban";
-	int n=2;
-
-	system("pause");
-	return 0;
-}
+GitHub là một nền tảng cung cấp kho lưu trữ mã nguồn git. Nó cho phép nhiều người
+làm việc trên một project ở bất cứ nơi đâu. Địa chỉ GitHub: http://github.com/. Bên dưới
+các thao tác cơ bản làm việc git & github.
