@@ -7,3 +7,4 @@ int main()
 	system("pause");
 	return 0;
 }
+cout << "2+5=10";
