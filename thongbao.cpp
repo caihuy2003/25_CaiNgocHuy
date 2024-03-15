@@ -2,7 +2,7 @@
 int main()
 {
 	cout << "hello cac ban";
-	cout << "hellllllllppp";
+	int n=2;
 
 	system("pause");
 	return 0;
